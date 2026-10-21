@@ -1,0 +1,146 @@
+[
+  {
+    "asset": "rock_face_03",
+    "map": "Diffuse",
+    "page": "https://polyhaven.com/a/rock_face_03",
+    "authors": {
+      "Dario Barresi": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "license": "CC0-1.0",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_face_03/rock_face_03_diff_1k.jpg",
+    "sourceMD5": "e4c34abb1aad5befe12754fad507147a",
+    "file": "rock_face_03-Diffuse.webp",
+    "sha256": "D152DDC65CFC3D6458B880A176E46DFDEB0679E0D05D63E7FF53716051954B31",
+    "bytes": 165666
+  },
+  {
+    "asset": "rock_face_03",
+    "map": "nor_gl",
+    "page": "https://polyhaven.com/a/rock_face_03",
+    "authors": {
+      "Dario Barresi": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "license": "CC0-1.0",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_face_03/rock_face_03_nor_gl_1k.jpg",
+    "sourceMD5": "cbd30858439ece391480c5e67e09de89",
+    "file": "rock_face_03-nor_gl.webp",
+    "sha256": "79AED5C7E0308CEC927AE899233CB3807A041A6FFC6D6414B946897CCB1078ED",
+    "bytes": 216576
+  },
+  {
+    "asset": "rock_face_03",
+    "map": "Rough",
+    "page": "https://polyhaven.com/a/rock_face_03",
+    "authors": {
+      "Dario Barresi": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "license": "CC0-1.0",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_face_03/rock_face_03_rough_1k.jpg",
+    "sourceMD5": "bbb2c7dafde3f81808fa7404d4527a56",
+    "file": "rock_face_03-Rough.webp",
+    "sha256": "A616595E195BDC9B6E63CB759A9CD45D44130A7021E22D9EF96103C4B597BE22",
+    "bytes": 84632
+  },
+  {
+    "asset": "concrete_floor_02",
+    "map": "Diffuse",
+    "page": "https://polyhaven.com/a/concrete_floor_02",
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "license": "CC0-1.0",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_floor_02/concrete_floor_02_diff_1k.jpg",
+    "sourceMD5": "1cfee53d2f82fa59726ab7ae6a2e8c09",
+    "file": "concrete_floor_02-Diffuse.webp",
+    "sha256": "35A6E3B6E657619F3179909AFDEEC2610022A793D3797C5117C4DFCC14C7B766",
+    "bytes": 168556
+  },
+  {
+    "asset": "concrete_floor_02",
+    "map": "nor_gl",
+    "page": "https://polyhaven.com/a/concrete_floor_02",
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "license": "CC0-1.0",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_floor_02/concrete_floor_02_nor_gl_1k.jpg",
+    "sourceMD5": "c2065fd81f571f4e39163ea5661128fb",
+    "file": "concrete_floor_02-nor_gl.webp",
+    "sha256": "04DF9B87D4797385C4C01B11D7B90984791409BA384F39D0A1C9CED6652C2BEC",
+    "bytes": 94410
+  },
+  {
+    "asset": "concrete_floor_02",
+    "map": "Rough",
+    "page": "https://polyhaven.com/a/concrete_floor_02",
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "license": "CC0-1.0",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_floor_02/concrete_floor_02_rough_1k.jpg",
+    "sourceMD5": "653d60d0db1872a49138455cf31c8326",
+    "file": "concrete_floor_02-Rough.webp",
+    "sha256": "2EBF2FD93B4A8034640171F7D6F15F61D1921C30E2C7B6EA3D30D66DEF3251FF",
+    "bytes": 63086
+  },
+  {
+    "asset": "coast_sand_01",
+    "map": "Diffuse",
+    "page": "https://polyhaven.com/a/coast_sand_01",
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "license": "CC0-1.0",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/coast_sand_01/coast_sand_01_diff_1k.jpg",
+    "sourceMD5": "a1e243fc8635806381505c7dc44b192a",
+    "file": "coast_sand_01-Diffuse.webp",
+    "sha256": "E56B527AEE6E93E03EA1D10CEBDA8C33113941B211157DD34295347026B527D4",
+    "bytes": 194164
+  },
+  {
+    "asset": "coast_sand_01",
+    "map": "nor_gl",
+    "page": "https://polyhaven.com/a/coast_sand_01",
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "license": "CC0-1.0",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/coast_sand_01/coast_sand_01_nor_gl_1k.jpg",
+    "sourceMD5": "38bbe6863249a3d20d8417c9db207780",
+    "file": "coast_sand_01-nor_gl.webp",
+    "sha256": "A913C9BF3867F8D28B14A957292D3DDC84CCE608E4DA9F94CCE496F7570184A7",
+    "bytes": 219164
+  },
+  {
+    "asset": "coast_sand_01",
+    "map": "Rough",
+    "page": "https://polyhaven.com/a/coast_sand_01",
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "license": "CC0-1.0",
+    "source": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/coast_sand_01/coast_sand_01_rough_1k.jpg",
+    "sourceMD5": "978aca9e374cf988095392a91d3a4f71",
+    "file": "coast_sand_01-Rough.webp",
+    "sha256": "849450BD2EEB53967ABE42E34EF5FDEBC24BA621560B45FBC2CF873310C55FB5",
+    "bytes": 12948
+  },
+  {
+    "asset": "kloppenheim_06_puresky",
+    "map": "tonemapped panorama",
+    "page": "https://polyhaven.com/a/kloppenheim_06_puresky",
+    "authors": {
+      "Greg Zaal": "Original",
+      "Jarod Guest": "Sky edits"
+    },
+    "license": "CC0-1.0",
+    "source": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/kloppenheim_06_puresky.jpg",
+    "sourceMD5": "958a8792cecb20d602dab110ebc23e06",
+    "file": "sky.webp",
+    "sha256": "698F326996C7453C2EAF3B61BBDBEE1792F545E7B66807511444F09FA15F1596",
+    "bytes": 76098
+  }
+]

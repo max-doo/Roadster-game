@@ -1,0 +1,35 @@
+{
+  "name": "roadster-gravity-breaker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "vitest run tests/physics.test.ts tests/gameplay.test.ts tests/input.test.ts tests/haptics.test.ts tests/vehicle.test.ts tests/faultline.test.ts tests/road-events.test.ts tests/scale.test.ts",
+    "test:e2e": "playwright test",
+    "test:physics": "tsx tests/replay.ts",
+    "test:acceptance": "node tests/acceptance/profile.mjs"
+  },
+  "dependencies": {
+    "@dimforge/rapier2d-compat": "^0.19.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "three": "^0.180.0",
+    "@fontsource/barlow-condensed": "^5.2.6",
+    "@fontsource/barlow": "^5.2.6"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.1",
+    "@types/react": "^19.1.16",
+    "@types/react-dom": "^19.1.9",
+    "@types/three": "^0.180.0",
+    "@vitejs/plugin-react": "^5.0.4",
+    "typescript": "~5.9.3",
+    "vite": "^7.1.9",
+    "vitest": "^3.2.4",
+    "tsx": "^4.20.6",
+    "@types/node": "^24.7.2"
+  }
+}

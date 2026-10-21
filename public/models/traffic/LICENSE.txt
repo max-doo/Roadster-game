@@ -1,0 +1,6 @@
+7.5 t class box truck with roll-up door
+Original author: Innerscene
+CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+Source: https://www.innerscene.com/tools/library/3d-parts/7-5-t-class-box-truck-with-roll-up-door-12baea66
+Retrieved 2026-10-19. See source.json for source hash and runtime adaptations.

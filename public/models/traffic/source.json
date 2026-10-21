@@ -1,0 +1,13 @@
+{
+  "asset": "box-truck.glb",
+  "author": "Innerscene",
+  "title": "7.5 t class box truck with roll-up door",
+  "source": "https://www.innerscene.com/tools/library/3d-parts/7-5-t-class-box-truck-with-roll-up-door-12baea66",
+  "download": "https://www.innerscene.com/api/library/7-5-t-class-box-truck-with-roll-up-door-12baea66/download",
+  "license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "retrieved": "2026-10-19",
+  "bytes": 6063184,
+  "sha256": "2ad07a090e66c58c637599df23cb6b71fc6cae3ba58d37460b942f9ce8b93a27",
+  "adaptation": "Runtime axis rotation, fit to 7.2 x 3.3 x 2.7 m encounter envelope, shared materials and merged geometry; transmission disabled for gameplay."
+}

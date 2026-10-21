@@ -1,0 +1,40 @@
+{
+  "author": "Alexander Ehlers (tricksntraps)",
+  "license": "CC0-1.0",
+  "source": "https://opengameart.org/content/t-t-free-cyberpunk-pack-2",
+  "retrieved": "2026-10-18",
+  "tracks": [
+    {
+      "scene": "menu",
+      "file": "night-club-chill.mp3",
+      "sourceURL": "https://opengameart.org/sites/default/files/night_club_chill_100bpm.ogg",
+      "sourceSHA256": "c7f02e74ab9e11af9909db2b1a28905bcb309742c1528fcab67eff931a360ac4",
+      "sha256": "9121dcfa938695118e3c0d6ada82ad3f69558baad0a37d0962210c5b9fae4687",
+      "bytes": 4839593
+    },
+    {
+      "scene": "Ignition",
+      "file": "jumping-cyborg.mp3",
+      "sourceURL": "https://opengameart.org/sites/default/files/jumping_cyborg_110bpm.ogg",
+      "sourceSHA256": "7d768754fc82f5b41a6a33c682d3572b6824f3b69d95d080f6386c7fd2a25696",
+      "sha256": "4cd1f0a4ccf479a23733f374b1243cb3b1ca503a3f20152d6d34fe6190984d49",
+      "bytes": 4225193
+    },
+    {
+      "scene": "Inversion",
+      "file": "new-factory.mp3",
+      "sourceURL": "https://opengameart.org/sites/default/files/new_factory_129bpm_0.ogg",
+      "sourceSHA256": "3365dd3d25697a54e843678d75f49732cd0bc88bfd3ccb574b39f0ed65fa7291",
+      "sha256": "7141883b038e0e0ffeb90ea72e0a7455ee77df7a36a2a600761fb5fef936c405",
+      "bytes": 2084824
+    },
+    {
+      "scene": "Skyfall",
+      "file": "system-overload.mp3",
+      "sourceURL": "https://opengameart.org/sites/default/files/system_overload_154bpm.ogg",
+      "sourceSHA256": "2f83c4638b058b675e283fd17d84f430af87a9a1462d1133b67ca5cc03c162ff",
+      "sha256": "a16aea69e2216baa4a743e5709a67f30fd2c543ff6b4cfd809e14db9d496c0e6",
+      "bytes": 3242571
+    }
+  ]
+}

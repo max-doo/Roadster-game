@@ -1,0 +1,10 @@
+Roadster: Gravity Breaker - third-party notices
+
+React / React DOM - Copyright Meta Platforms, Inc. and affiliates. MIT license.
+Three.js - Copyright three.js authors. MIT license.
+Helvetiker lettering geometry - Copyright (c) 2004 MAGENTA Ltd. MgOpen font license; full notice in Helvetiker-MgOpen.txt.
+Rapier / @dimforge/rapier2d-compat - Copyright Dimforge. Apache License 2.0.
+Barlow / Barlow Condensed - Copyright the Barlow Project Authors. SIL Open Font License 1.1. Full licenses are included beside this notice.
+Vite, TypeScript and developer/test tooling retain their upstream licenses in node_modules. package-lock.json pins the actual installed versions.
+
+No proprietary Tesla model, logo, official audio, or reference photograph is included in the built game. The car model is an original interpretation of a publicly shown vehicle design. This project does not assert a license to the underlying vehicle design or trademarks and does not imply affiliation or endorsement.

@@ -1,0 +1,27 @@
+node_modules/
+dist/
+test-results/
+test-results-*/
+playwright-report/
+*.log
+*.tsbuildinfo
+*.webm
+*.zip
+
+# Local screenshots and acceptance evidence
+artifacts/
+
+# Local agent/tool repositories and scratch state
+.agents/
+.workbuddy/
+*.genie
+
+# Standalone probe build output
+# (merged into _local/ below; probe tool moved to _local/minitool-probe)
+
+# Local-only content: marketing, internal tools, reference photos, dev log.
+# Everything in here stays on disk and is NOT part of the open-source repo.
+_local/
+
+Thumbs.db
+.DS_Store

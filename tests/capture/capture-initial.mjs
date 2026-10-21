@@ -1,0 +1,6 @@
+import { chromium } from '@playwright/test';
+import { writeFile, mkdir } from 'node:fs/promises';
+const browser=await chromium.launch({headless:true,executablePath:process.env.LOCALAPPDATA+'/ms-playwright/chromium-1208/chrome-win64/chrome.exe',args:['--enable-webgl','--ignore-gpu-blocklist']});
+const page=await browser.newPage({viewport:{width:1440,height:900}});const logs=[];page.on('pageerror',e=>logs.push(e.message));await page.goto('http://127.0.0.1:5173');await page.waitForFunction(()=>window.__ROADSTER__);await page.waitForTimeout(1600);await mkdir('artifacts',{recursive:true});await page.screenshot({path:'artifacts/menu-initial.png'});
+await page.getByRole('button',{name:'INSPECT VEHICLE'}).click();for(const view of ['front','side','rear','top','bottom']){await page.evaluate(v=>window.__ROADSTER__.view(v),view);await page.waitForTimeout(1000);await page.screenshot({path:`artifacts/vehicle-${view}-initial.png`});}
+await page.evaluate(()=>window.__ROADSTER__.start(1));await page.evaluate(()=>{window.__ROADSTER__.manual(true);window.__ROADSTER__.input({accelerate:true});window.__ROADSTER__.step(250);});await page.screenshot({path:'artifacts/ignition-initial.png'});await writeFile('artifacts/initial-logs.json',JSON.stringify({logs,stats:await page.evaluate(()=>window.__ROADSTER__.stats())},null,2));await browser.close();
